@@ -1,1 +1,25 @@
 // add your Reference_Arc code here
+size(300,300);
+background(0,0,0);
+noStroke();
+fill(255,240,64);
+arc(200,150,75,75,radians(30),radians(330));
+fill(255,255,255);
+ellipse(225,150,10,10);
+ellipse(250,150,10,10);
+ellipse(275,150,10,10);
+ellipse(300,150,10,10);
+fill(64,85,255);
+fill(0,173,250);
+rect(25,120,80,65);
+arc(65,120,80,80,radians(180),radians(360));
+arc(35,185,20,20,radians(0),radians(180));
+arc(55,185,20,20,radians(0),radians(180));
+arc(75,185,20,20,radians(0),radians(180));
+arc(95,185,20,20,radians(0),radians(180));
+fill(255,255,255);
+ellipse(55,125,20,30);
+ellipse(90,125,20,30);
+fill(0);
+ellipse(59,133,15,15);
+ellipse(93,133,15,15);
